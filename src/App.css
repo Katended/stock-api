@@ -1,0 +1,11 @@
+:root {
+  --first-color: #ec4c8b;
+  --second-color: #df4783;
+  --third-color: #7b2c4b;
+}
+
+body {
+  background-color: rgb(252, 81, 147);
+  color: white;
+  font-size: 1em;
+}
