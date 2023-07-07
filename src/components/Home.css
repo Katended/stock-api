@@ -1,0 +1,128 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  margin: 10px;
+  overflow-x: hidden;
+  height: 100vh;
+  flex-wrap: wrap;
+  background-color: rgb(255, 59, 134);
+  overflow: hidden;
+}
+
+.flex-container-details {
+  display: flex;
+  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 0;
+  margin: 10px;
+  overflow-x: hidden;
+  background-color: rgb(253, 57, 132);
+  overflow: hidden;
+}
+
+.search-by-symbol {
+  background-image: url('../assets/main.png');
+  padding-top: 18em;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.card {
+  color: aliceblue;
+  padding: 20px;
+}
+
+.filter-inputs {
+  display: flex;
+  background-color: rgb(253, 57, 132, 0.9);
+  color: white;
+  width: 100%;
+  padding: 5px;
+  justify-content: space-between;
+  background-position: center top;
+}
+
+.topheading {
+  position: fixed;
+  top: 20%;
+  left: 70%;
+  font-size: 2.2em;
+}
+
+.con {
+  float: right;
+  width: 10px;
+  padding-right: 1em;
+}
+
+.flex-container > .card1 {
+  width: 50%;
+  height: 10em;
+  border: none;
+  border-radius: 0%;
+  background: none;
+
+  &:nth-child(4n+2),
+  &:nth-child(4n+3) {
+    background: rgba(66, 41, 51, 0.1);
+  }
+}
+
+.flex-container-details > .card2 {
+  width: 100%;
+  height: 8em;
+  border: none;
+  border-radius: 0%;
+  background: none;
+  padding: 15px;
+
+  &:nth-child(odd) {
+    background: rgba(139, 21, 66, 0.1);
+  }
+
+  &:nth-child(even) {
+    background-color: rgb(252, 45, 124, 0.5);
+  }
+}
+
+a:link {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a:visited {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a > div {
+  height: 15vw;
+}
+
+input[type=text] {
+  width: 30%;
+  padding: 5px 12px;
+  display: inline-block;
+  border: 1px solid rgb(117, 5, 48);
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(252, 208, 225);
+  color: black;
+}
+
+.flex-container > input[type=text]:focus {
+  width: 30%;
+  padding: 5px 12px;
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid rgb(255, 59, 134);
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgba(248, 173, 202, 0.7);
+}
