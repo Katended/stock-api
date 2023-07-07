@@ -10,15 +10,17 @@ const RatesItem = ({
   id, value,
 }) => (
   <Card className="card2">
-    <div>
-      <div className="con">
+    <div className="ratesitem">
+      <span>
+        <h4>{id}</h4>
+        <span>
+          {value}
+        </span>
+      </span>
+      <span>
         <FontAwesomeIcon icon={faArrowCircleRight} className="icon iconP" />
-      </div>
+      </span>
     </div>
-    <h4>{id}</h4>
-    <span>
-      {value}
-    </span>
   </Card>
 );
 RatesItem.propTypes = {

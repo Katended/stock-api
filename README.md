@@ -45,7 +45,7 @@ This is a React mobile app featuring  different forex rates for all major curren
       <li><a href="https://react.dev/learn/start-a-new-react-project#create-react-app">React </a></li>
        <li><a href="https://react-redux.js.org/">React Redux</a></li>        
          <li><a href="https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/articles/react_router.md">React Router</a></li>
-     <li><a href="https://disease.sh/v3/covid-19/countries">API</a></li>
+     <li><a href="https://www.vatcomply.com">API</a></li>
 </ul>
 
 ## 🔑 Key Features <a name="key-features"></a>
@@ -65,7 +65,7 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
 
-[React capstone - Forex Rates App Walkthrough]()
+[React capstone - Forex Rates App Walkthrough](https://www.loom.com/share/7a516b895afb49338f043d1c508f5e2a?sid=bba221de-d507-4b7a-8cb5-a4364d745842)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
