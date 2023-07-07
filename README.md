@@ -30,11 +30,8 @@
 
 # 📖 React Capstone - Metrics web App  <a name="about-project"></a>
 
-This is a React project features a mobile app that shows  different forex rates for all major currencies. The API uses data from <a href="https://www.vatcomply.com/documentation">VAT Comply</a>:
+This is a React mobile app featuring  different forex rates for all major currencies. The project uses an API from <a href="https://www.vatcomply.com/documentation">VAT Comply</a>
 
-- JS files
-- CSS files
-- Html, CSS, and JS linters file
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,8 +43,7 @@ This is a React project features a mobile app that shows  different forex rates 
   <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">CSS</a></li>
       <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">JS</a></li>
       <li><a href="https://react.dev/learn/start-a-new-react-project#create-react-app">React </a></li>
-       <li><a href="https://react-redux.js.org/">React Redux</a>
-        <li><a href="https://www.npmjs.com/package/redux-logger">Redux Logger</a></li>
+       <li><a href="https://react-redux.js.org/">React Redux</a></li>        
          <li><a href="https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/articles/react_router.md">React Router</a></li>
      <li><a href="https://disease.sh/v3/covid-19/countries">API</a></li>
 </ul>
@@ -56,32 +52,28 @@ This is a React project features a mobile app that shows  different forex rates 
 
 ### React capstone - COVID-19 Metrics web app : [Requirements](https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md)
 
-- [x] Real-time data updates: The React capstone - COVID-19 Metrics web app will provide real-time updates on COVID-19 metrics such as the number of cases, deaths, and recoveries. 
-- [x] Location-based metrics: The web app will allow users to view COVID-19 metrics for specific countries. This feature will enable users to track the spread of the virus in their desired area and make informed decisions based on local data
-- [x] In the browser tested ; it render without problems, [Metrics webapp online ](http://localhost:3000/React-Capstone-Metrics-webapp)
-- [x] All components and functions of the project tested and [pass all](https://github.com/Benawi/React-Capstone-Metrics-webapp/assets/21217148/8d76d6be-8d38-4b7f-bc90-de625e617f0c)
- <div align="center">
-<a href="https://github.com/Benawi/React-Capstone-Metrics-webapp/assets/21217148/00776caa-0f40-4636-8d41-4dea46476b0f "><img src="https://github.com/Benawi/React-Capstone-Metrics-webapp/assets/21217148/00776caa-0f40-4636-8d41-4dea46476b0f " /></a>
-<a href="https://github.com/Benawi/React-Capstone-Metrics-webapp/assets/21217148/9c25fcb2-a9bf-45e9-a727-df4de7e6bd7c"><img src="https://github.com/Benawi/React-Capstone-Metrics-webapp/assets/21217148/9c25fcb2-a9bf-45e9-a727-df4de7e6bd7c "/></a>
+- [x] Latest forex rates(Data refreshes around 16:00 CET every working day)
+- [x] Forex paring using a user selected base currency.
+
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
 
-- [React capstone - Metrics web App Live Demo](https://benawi.github.io/React-Capstone-Metrics-webapp/)
+- [React capstone - Forex Rates](git@github.com:Katended/stock-api.git)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
 
-[React capstone - Metrics web App Walkthrough](https://www.loom.com/share/19e7daeabaaf4c158ed44761af057b73?sid=2d4ce784-f77d-437a-9af2-70471bb8623f)
+[React capstone - Forex Rates App Walkthrough]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started with Create React App <a name="getting-started"></a>
+## 💻 Getting Started  <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -131,7 +123,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 Clone this repository to your desired folder:
 
 > cd my-folder
-> git clone git@github.com:Microverse-JS-Capstone.git
+> git clone git@github.com:Katended/stock-api.git
 
 ### Prerequisites
 
@@ -242,18 +234,18 @@ You can redeploy this project by adding new lines of code to source files.
 
 ### 👤 Habtamu Alemayehu
 
-- GitHub: [Benawi](https://github.com/Benawi)
-- Linkdin: [Habtamu](https://www.linkedin.com/in/habtamualemayehu/)
+- GitHub: [Benawi](https://github.com/Katended/)
+- Linkdin: [Habtamu](https://www.linkedin.com/in/katendedavid/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add some animations style for the project💯
-- Add interactive visualizations
+- Add 1-minutes rates update💯
+- Add live currency index graphs
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/Nahid1911/space-travelers-proj-react/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/Katended/stock-api/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,7 +257,7 @@ Give me ⭐️ If you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I  would like to thank the Microverse program for providing us with this great chance.
+- Thanks to Microverse for the effort taken to curate , organise , and document the project requirements and resources.
 - I would like to acknowledge that [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)  for the [orginal design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
