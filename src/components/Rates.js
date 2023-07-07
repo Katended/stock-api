@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
-// import Card from 'react-bootstrap/Card';
 import { fetchCurrencyRates } from '../redux/home/currencyRatesSlice';
 import RatesItem from './RatesItem';
 import './Home.css';
