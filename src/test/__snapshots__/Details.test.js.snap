@@ -6,6 +6,69 @@ Object {
   "baseElement": <body>
     <div>
       <div
+        class="cases-by-symbol"
+      >
+        <span
+          class="topheading"
+        />
+        <div
+          class="search-by-symbol"
+        >
+          <div
+            class="filter-inputs"
+          >
+            <span>
+               
+            </span>
+            <span>
+              CURRENCY SYMBOLS
+            </span>
+          </div>
+        </div>
+        <div
+          class="flex-container-details"
+        >
+          <div>
+             
+            <span>
+              DATE:
+               
+               
+            </span>
+             
+            <span>
+              BASE:
+               
+            </span>
+             
+            EXCHANGE RATES
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="cases-by-symbol"
+    >
+      <span
+        class="topheading"
+      />
+      <div
+        class="search-by-symbol"
+      >
+        <div
+          class="filter-inputs"
+        >
+          <span>
+             
+          </span>
+          <span>
+            CURRENCY SYMBOLS
+          </span>
+        </div>
+      </div>
+      <div
         class="flex-container-details"
       >
         <div>
@@ -23,27 +86,6 @@ Object {
            
           EXCHANGE RATES
         </div>
-      </div>
-    </div>
-  </body>,
-  "container": <div>
-    <div
-      class="flex-container-details"
-    >
-      <div>
-         
-        <span>
-          DATE:
-           
-           
-        </span>
-         
-        <span>
-          BASE:
-           
-        </span>
-         
-        EXCHANGE RATES
       </div>
     </div>
   </div>,

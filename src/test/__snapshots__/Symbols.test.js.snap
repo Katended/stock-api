@@ -7,11 +7,19 @@ Object {
     <div>
       <div>
         <div
-          class="cases-by-symbol"
+          class="search-by-symbol"
         >
+          <span
+            class="topheading"
+          >
+            ALL SYMBOLS
+          </span>
           <div
             class="filter-inputs"
           >
+            <span>
+              EXCHANGE
+            </span>
             <input
               id="search-input"
               placeholder="Search by symbol e.g USD"
@@ -28,11 +36,19 @@ Object {
   "container": <div>
     <div>
       <div
-        class="cases-by-symbol"
+        class="search-by-symbol"
       >
+        <span
+          class="topheading"
+        >
+          ALL SYMBOLS
+        </span>
         <div
           class="filter-inputs"
         >
+          <span>
+            EXCHANGE
+          </span>
           <input
             id="search-input"
             placeholder="Search by symbol e.g USD"

@@ -16,15 +16,8 @@ const Home = () => {
       searchValue = document.getElementById('search-input').value;
     }
 
-    //  let selectedArray = symbols;
     if (searchValue !== '') {
       searchValue = searchValue.toLowerCase();
-      // const users = [searchValue];
-
-      /* const selectedArray = Object
-        .keys(symbols)
-        .filter((key) => (key === 'USD'))
-        .map((key) => symbols[key]); */
 
       const selectedArray = Object
         .keys(symbols)
@@ -33,12 +26,8 @@ const Home = () => {
           [key]: symbols[key],
         }), {});
 
-      // const selectedArray = Object.map(symbols)
-      //   .filter((key) => ((key.toLowerCase() === searchValue) ? symbols[key] : []));
-
       console.log(selectedArray);
-      // selectedArray = selectedArray
-      // .filter((key) => key.symbol.toLowerCase().includes(searchValue));
+
       setSymbolToShow(selectedArray);
     } else {
       setSymbolToShow(symbols);
@@ -56,9 +45,6 @@ const Home = () => {
       setSymbolToShow(symbols);
     }
   }, [symbols]);
-
-  // console.log(symbols);
-  // console.log(symbolsToShow);
 
   return (
     <div>

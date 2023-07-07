@@ -13,7 +13,6 @@ const Rates = () => {
   const rates = useSelector((state) => state.currencyRatesStore.rates);
 
   useEffect(() => {
-    console.log(rates.length === 0);
     if (rates.length === 0) {
       dispatch(fetchCurrencyRates(id));
     }
@@ -21,7 +20,6 @@ const Rates = () => {
 
   return (
     <div className="cases-by-symbol">
-
       <span className="topheading">
         {id }
       </span>

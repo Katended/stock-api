@@ -63,7 +63,7 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
 
-[React capstone - Forex Rates App Walkthrough](https://www.loom.com/share/7a516b895afb49338f043d1c508f5e2a?sid=bba221de-d507-4b7a-8cb5-a4364d745842)
+[React capstone - Forex Rates App Walkthrough](https://www.loom.com/share/18ec92a2690c4ad58b51992c2d7820ce?sid=b9e03b8b-eb8d-4e35-b7a8-2407c311eff9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
