@@ -60,7 +60,7 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
 
-- [React capstone - Forex Rates](git@github.com:Katended/stock-api.git)
+- [React capstone - Forex Rates](https://stock-api-4d7q.onrender.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
