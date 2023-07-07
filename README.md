@@ -50,7 +50,9 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 🔑 Key Features <a name="key-features"></a>
 
-### React capstone - COVID-19 Metrics web app : [Requirements](https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md)
+### React capstone - Forex Rates web app : 
+
+#### [Requirements](https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md)
 
 - [x] Latest forex rates(Data refreshes around 16:00 CET every working day)
 - [x] Forex paring using a user selected base currency.
