@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
-
 ### <div align="center"><a><img src="https://github.com/Katended/Katended/assets/43292406/e780a2cd-e49f-4780-a817-e854ccb46cdb"></a>
-
  </div> 
-<div align="center">React Capstone Project Forex Rates Metrics Web App</div>
+<div align="center">React Capstone Project -Forex Rates Web App</div>
+
+
 
 # 📗 Table of Contents
 
@@ -28,8 +28,6 @@
 
 - [📝 License](#license)
 
-# 📖 React Capstone - Metrics web App  <a name="about-project"></a>
-
 This is a React mobile app featuring  different forex rates for all major currencies. The project uses an API from <a href="https://www.vatcomply.com/documentation">VAT Comply</a>
 
 
@@ -50,8 +48,6 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 🔑 Key Features <a name="key-features"></a>
 
-### React capstone - Forex Rates web app : 
-
 #### [Requirements](https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md)
 
 - [x] Latest forex rates(Data refreshes around 16:00 CET every working day)
@@ -67,7 +63,7 @@ This is a React mobile app featuring  different forex rates for all major curren
 
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
 
-[React capstone - Forex Rates App Walkthrough](https://www.loom.com/share/7a516b895afb49338f043d1c508f5e2a?sid=bba221de-d507-4b7a-8cb5-a4364d745842)
+[React capstone - Forex Rates App Walkthrough](https://www.loom.com/share/18ec92a2690c4ad58b51992c2d7820ce?sid=b9e03b8b-eb8d-4e35-b7a8-2407c311eff9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,10 +230,10 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 👥 Authors <a name="authors"></a>
 
-### 👤 Habtamu Alemayehu
+### 👤 Katende David
 
-- GitHub: [Benawi](https://github.com/Katended/)
-- Linkdin: [Habtamu](https://www.linkedin.com/in/katendedavid/)
+- GitHub: [Katende David](https://github.com/Katended/)
+- Linkdin: [Katende David](https://www.linkedin.com/in/katendedavid/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 

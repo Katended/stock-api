@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
-// import Card from 'react-bootstrap/Card';
 import { fetchCurrencyRates } from '../redux/home/currencyRatesSlice';
 import RatesItem from './RatesItem';
 import './Home.css';
@@ -13,7 +12,6 @@ const Rates = () => {
   const rates = useSelector((state) => state.currencyRatesStore.rates);
 
   useEffect(() => {
-    console.log(rates.length === 0);
     if (rates.length === 0) {
       dispatch(fetchCurrencyRates(id));
     }
@@ -21,7 +19,6 @@ const Rates = () => {
 
   return (
     <div className="cases-by-symbol">
-
       <span className="topheading">
         {id }
       </span>

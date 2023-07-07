@@ -1,5 +1,4 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-// import URL from '../API';
 
 const initialState = {
   symbols: [],
@@ -7,14 +6,6 @@ const initialState = {
   error: '',
 };
 
-/* const constructURL = (params) => {
-  // Construct the query string
-  const queryString = Object.keys(params)
-    .map((key) => `${encodeURIComponent(key)}=${encodeURIComponent(params[key])}`)
-    .join('&');
-  const url = `${URL.symbolsURL}&${queryString}`;
-  return url;
-}; */
 export const fetchSymbols = createAsyncThunk(
   'home/fetchSymbols',
   async (_, thunkAPI) => {
